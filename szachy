@@ -1,1 +1,15 @@
 Szachy – rodzina strategicznych gier planszowych rozgrywanych przez dwóch graczy na 64-polowej szachownicy, za pomocą zestawu bierek (pionów i figur). Popularnie, choć nieprecyzyjnie, szachami nazywa się również wspomniane bierki. Międzynarodowy Komitet Olimpijski uznaje szachy za dyscyplinę sportu.
+
+## Bierki
+Przeciwnicy dysponują zestawami bierek w odmiennych kolorach. W skład każdego z nich wchodzi szesnaście bierek: król, hetman (również nazywany damą lub królową), dwa gońce (z niemieckiego nazywane czasami lauframi), dwa skoczki (zwane też popularnie końmi), dwie wieże oraz osiem pionów.
+
+Wartość figur szachowych może być absolutna lub względna. Przy założeniu, że wartość absolutna piona wynosi 1, wartości statyczne figur przedstawiają się następująco:
+
+hetman – 9 punktów,
+wieża – 5 punktów,
+skoczek lub goniec – 3 punkty[2][3],
+choć mogą one ulegać zmianie w zależności od dynamicznych aspektów konkretnej pozycji[4].
+
+W konkretnej sytuacji na szachownicy wartość względna jest ważniejsza od wartości absolutnej. Wynika to z tego, że w określonych przypadkach figury mogą mieć różne wartości, np. w pozycjach o charakterze zamkniętym względna wartość skoczka przewyższa wartość gońca i odwrotnie – w pozycjach otwartych wartość gońca jest większa niż skoczka (a tym bardziej pary gońców nad parą skoczków). Podobnie dochodzący do pola przemiany pion może mieć wartość o wiele wyższą niż przypisana mu wartość 1 punktu i często może przewyższać wartość np. lekkiej figury[5].
+
+Jeśli jeden z graczy ma figury o sumarycznej wartości punktowej większej niż drugi, jest to podstawą do stwierdzenia, że ma przewagę materialną. Jednak nie zawsze musi ona przesądzać o wygranej – czasami decyduje tzw. przewaga pozycyjna. Debata nad wartością skoczków i gońców (dotycząca też kolorów pól, po których poruszają się gońce) również jest natury pozycyjnej i nie ma sensu bez odniesienia do konkretnej sytuacji na szachownicy. Z kolei dwie wieże mają przewagę nad hetmanem, mimo że gra tym ostatnim jest z reguły łatwiejsza.
